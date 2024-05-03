@@ -9,7 +9,7 @@ metadata:
     - react
     - javascript
 spec:
-  owner: debabrata.panigrahi@harness.io
+  owner: sitendra@synopsys.com
   type: service
   parameters:
     - title: Next.js app details
