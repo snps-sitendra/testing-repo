@@ -33,7 +33,7 @@ metadata:
 spec:
   type: service
   lifecycle: production
-  owner: sitendra
+  owner: sitendra-nagesh
   dependsOn:
     - resource:default/artists-db
   providesApis:
